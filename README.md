@@ -4,7 +4,7 @@ Phaser PWA
 
 This is based on a tutorial for making a Phaser PWA:
 
-> Phaser Progressive Web Apps Tutorial – How to Create Offline-First Games
+> Phaser Progressive Web Apps Tutorial – How to Create Offline-First Games \
 > https://gamedevacademy.org/phaser-progressive-web-apps-tutorial/
 
 # Run it online
