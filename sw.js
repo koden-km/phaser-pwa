@@ -1,6 +1,7 @@
 var cacheName = 'phaser-v1';
 var filesToCache = [
     // '/',
+    '/phaser-pwa/',
     'index.html',
     'img/logo.png',
     'img/icon-192.png',
